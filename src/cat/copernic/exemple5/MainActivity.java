@@ -4,10 +4,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-
-
 public class MainActivity extends ActionBarActivity {
-//Comentari de prova241
+//Comentari de prova241sfa
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
